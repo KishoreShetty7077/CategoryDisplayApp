@@ -1,0 +1,84 @@
+{
+  "categories": [
+    {
+      "categoryName": "Category 1",
+      "categoryImage": "ClothingCategory",
+      "items": [
+        { "id": 1, "imageName": "clothes-hanger", "itemName": "First Item in Category 1" },
+        { "id": 2, "imageName": "clothes-hanger", "itemName": "Second Item in Category 1" },
+        { "id": 3, "imageName": "clothes-hanger", "itemName": "Third Item in Category 1" },
+        { "id": 4, "imageName": "clothes-hanger", "itemName": "Fourth Item in Category 1" },
+        { "id": 5, "imageName": "clothes-hanger", "itemName": "Fifth Item in Category 1" },
+        { "id": 6, "imageName": "clothes-hanger", "itemName": "Sixth Item in Category 1" },
+        { "id": 7, "imageName": "clothes-hanger", "itemName": "Seventh Item in Category 1" },
+        { "id": 8, "imageName": "clothes-hanger", "itemName": "Eighth Item in Category 1" },
+        { "id": 9, "imageName": "clothes-hanger", "itemName": "Ninth Item in Category 1" },
+        { "id": 10, "imageName": "clothes-hanger", "itemName": "Tenth Item in Category 1" }
+      ]
+    },
+    {
+      "categoryName": "Category 2",
+      "categoryImage": "electronicsCategory",
+      "items": [
+        { "id": 11, "imageName": "gadgets", "itemName": "First Item in Category 2" },
+        { "id": 12, "imageName": "gadgets", "itemName": "Second Item in Category 2" },
+        { "id": 13, "imageName": "gadgets", "itemName": "Third Item in Category 2" },
+        { "id": 14, "imageName": "gadgets", "itemName": "Fourth Item in Category 2" },
+        { "id": 15, "imageName": "gadgets", "itemName": "Fifth Item in Category 2" },
+        { "id": 16, "imageName": "gadgets", "itemName": "Sixth Item in Category 2" },
+        { "id": 17, "imageName": "gadgets", "itemName": "Seventh Item in Category 2" },
+        { "id": 18, "imageName": "gadgets", "itemName": "Eighth Item in Category 2" },
+        { "id": 19, "imageName": "gadgets", "itemName": "Ninth Item in Category 2" },
+        { "id": 20, "imageName": "gadgets", "itemName": "Tenth Item in Category 2" }
+      ]
+    },
+    {
+      "categoryName": "Category 3",
+      "categoryImage": "furnitureCategory",
+      "items": [
+        { "id": 21, "imageName": "furniture", "itemName": "First Item in Category 3" },
+        { "id": 22, "imageName": "furniture", "itemName": "Second Item in Category 3" },
+        { "id": 23, "imageName": "furniture", "itemName": "Third Item in Category 3" },
+        { "id": 24, "imageName": "furniture", "itemName": "Fourth Item in Category 3" },
+        { "id": 25, "imageName": "furniture", "itemName": "Fifth Item in Category 3" },
+        { "id": 26, "imageName": "furniture", "itemName": "Sixth Item in Category 3" },
+        { "id": 27, "imageName": "furniture", "itemName": "Seventh Item in Category 3" },
+        { "id": 28, "imageName": "furniture", "itemName": "Eighth Item in Category 3" },
+        { "id": 29, "imageName": "furniture", "itemName": "Ninth Item in Category 3" },
+        { "id": 30, "imageName": "furniture", "itemName": "Tenth Item in Category 3" }
+      ]
+    },
+    {
+      "categoryName": "Category 4",
+      "categoryImage": "groceryCategory",
+      "items": [
+        { "id": 31, "imageName": "shopping-bag", "itemName": "First Item in Category 4" },
+        { "id": 32, "imageName": "shopping-bag", "itemName": "Second Item in Category 4" },
+        { "id": 33, "imageName": "shopping-bag", "itemName": "Third Item in Category 4" },
+        { "id": 34, "imageName": "shopping-bag", "itemName": "Fourth Item in Category 4" },
+        { "id": 35, "imageName": "shopping-bag", "itemName": "Fifth Item in Category 4" },
+        { "id": 36, "imageName": "shopping-bag", "itemName": "Sixth Item in Category 4" },
+        { "id": 37, "imageName": "shopping-bag", "itemName": "Seventh Item in Category 4" },
+        { "id": 38, "imageName": "shopping-bag", "itemName": "Eighth Item in Category 4" },
+        { "id": 39, "imageName": "shopping-bag", "itemName": "Ninth Item in Category 4" },
+        { "id": 40, "imageName": "shopping-bag", "itemName": "Tenth Item in Category 4" }
+      ]
+    },
+    {
+      "categoryName": "Category 5",
+      "categoryImage": "sportsCategory",
+      "items": [
+        { "id": 41, "imageName": "sports", "itemName": "First Item in Category 5" },
+        { "id": 42, "imageName": "sports", "itemName": "Second Item in Category 5" },
+        { "id": 43, "imageName": "sports", "itemName": "Third Item in Category 5" },
+        { "id": 44, "imageName": "sports", "itemName": "Fourth Item in Category 5" },
+        { "id": 45, "imageName": "sports", "itemName": "Fifth Item in Category 5" },
+        { "id": 46, "imageName": "sports", "itemName": "Sixth Item in Category 5" },
+        { "id": 47, "imageName": "sports", "itemName": "Seventh Item in Category 5" },
+        { "id": 48, "imageName": "sports", "itemName": "Eighth Item in Category 5" },
+        { "id": 49, "imageName": "sports", "itemName": "Ninth Item in Category 5" },
+        { "id": 50, "imageName": "sports", "itemName": "Tenth Item in Category 5" }
+      ]
+    }
+  ]
+}
